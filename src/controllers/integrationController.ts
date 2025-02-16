@@ -18,7 +18,7 @@ export const integration = (req: Request, res: Response, next: NextFunction) => 
                 "Log message formatting activity for auditing purposes."
             ],
             author: "Precious Ifeanyi",
-            integration_category: "task automation",
+            integration_category: "Task Automation",
             integration_type: "modifier",
             settings: [
                 {
