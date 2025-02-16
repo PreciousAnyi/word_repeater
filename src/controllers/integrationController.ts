@@ -18,8 +18,8 @@ export const integration = (req: Request, res: Response, next: NextFunction) => 
                 "Log message formatting activity for auditing purposes."
             ],
             author: "Precious Ifeanyi",
-            integration_category: "interval",
-            integration_type: "interval",
+            integration_category: "task automation",
+            integration_type: "modifier",
             settings: [
                 {
                 "label": "maxMessageLength",
